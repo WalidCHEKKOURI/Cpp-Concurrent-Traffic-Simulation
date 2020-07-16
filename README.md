@@ -2,8 +2,6 @@
 
 <img src="data/traffic_simulation.gif"/>
 
-This is the project for the fourth course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Concurrency. 
-
 Traffic simulation in which vehicles are moving along streets and are crossing intersections. However, with increasing traffic in the city, traffic lights are needed for road safety. Each intersection will therefore be equipped with a traffic light. In this project, I built a suitable and thread-safe communication protocol between vehicles and intersections to complete the simulation.
 
 ## Dependencies for Running Locally
